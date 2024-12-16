@@ -47,4 +47,4 @@ While working on this experience, one of the tougher parts was deciding what to 
  
  Textures: https://www.deviantart.com/steellynx/art/Parchment-background-188839684
 
- Video Editing: Audacity (https://www.audacityteam.org/) & CapCut (https://www.capcut.com/)
+ Video Editing: OBS (https://obsproject.com/) & Audacity (https://www.audacityteam.org/) & CapCut (https://www.capcut.com/)
