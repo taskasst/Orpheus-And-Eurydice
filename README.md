@@ -8,6 +8,8 @@
 While working on this experience, one of the tougher parts was deciding what to make. I played around with a few other ideas (lego building, arranging a room, etc) before landing on this one. I wanted something that had a clear objective and interaction, while having a bit of story that didn’t need a lot of voice acting to carry it. When building out the environment for the Underworld, I wanted to have it feel dark but not scary. I tweaked the lighting settings throughout the scene to fit that mood, and baked the lighting because realtime light calculations can drive down performance. I also layered planes with growing transparency to mimic fog/water below the player.
 
 
+ Video Demo: https://drive.google.com/file/d/1dOb7upZkCl-aOhP9Ywb3aVF5KGoRKNLJ/view?usp=drive_link
+
 
  Credits:
  
