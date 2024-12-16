@@ -7,7 +7,7 @@
  
  Unity XR Interaction Toolkit: https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html
  
- Probuilder: https://docs.unity3d.com/Packages/com.unity.probuilder@6.0/manual/index.html
+ ProBuilder: https://docs.unity3d.com/Packages/com.unity.probuilder@6.0/manual/index.html
  
  Audio: https://assetstore.unity.com/packages/audio/sound-fx/voices/voices-essentials-214441
  
