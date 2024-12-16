@@ -46,3 +46,5 @@ While working on this experience, one of the tougher parts was deciding what to 
  Textures: https://assetstore.unity.com/packages/2d/textures-materials/nature/realistic-terrain-textures-free-279940
  
  Textures: https://www.deviantart.com/steellynx/art/Parchment-background-188839684
+
+ Video Editing: Audacity (https://www.audacityteam.org/) & CapCut (https://www.capcut.com/)
