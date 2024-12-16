@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dfa57d59a97024ec6964c7d3d0afbaea
+timeCreated: 1546756455
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136606
+  packageName: Greek Low Poly Pack - Lite
+  packageVersion: 1.1
+  assetPath: Assets/GreekPack1Lite/Models/Materials/Greek_Parchment.mat
+  uploadId: 298165
